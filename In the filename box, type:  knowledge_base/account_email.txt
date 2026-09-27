@@ -1,0 +1,1 @@
+Customers can update their account email address through the account settings when this option is available. The new email address may need to be verified before it becomes the primary contact address. Customers should have access to the new email account to complete verification.

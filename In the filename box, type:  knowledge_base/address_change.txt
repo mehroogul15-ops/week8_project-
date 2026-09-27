@@ -1,0 +1,1 @@
+Customers should update their delivery address before placing an order. If an order has already been placed, customers should contact support as soon as possible to ask whether the address can be changed. Address changes may not be possible after the order has been shipped.

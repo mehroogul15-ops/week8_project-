@@ -1,0 +1,1 @@
+Orders are shipped to the delivery address provided during checkout. Customers can check the shipping status using the tracking information provided after the order is dispatched. Delivery times can vary depending on the destination, shipping method, and carrier.

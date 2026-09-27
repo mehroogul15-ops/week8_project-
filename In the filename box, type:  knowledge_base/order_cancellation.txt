@@ -1,0 +1,1 @@
+Customers can request an order cancellation before the order is shipped. Cancellation requests may not be possible after the order has entered the shipping process. Customers should contact support as soon as possible if they need to cancel an order.

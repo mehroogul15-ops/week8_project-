@@ -1,0 +1,1 @@
+Customers can place an order by selecting an available product, choosing the required quantity, and adding the item to their cart. Before submitting the order, customers should review the items, delivery address, and payment details. An order is created after the customer confirms the purchase.

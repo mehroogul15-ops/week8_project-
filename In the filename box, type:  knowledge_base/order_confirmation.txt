@@ -1,0 +1,1 @@
+After an order is successfully placed, customers receive an order confirmation containing the order details. The confirmation may include the order number, purchased items, delivery address, payment information, and estimated delivery details. Customers should keep the order number for future support requests.

@@ -1,0 +1,1 @@
+Customers can pay for orders using the payment methods available at checkout. The available methods may include credit cards, debit cards, digital wallets, or other supported options. Customers should confirm that their payment information is correct before completing the order.

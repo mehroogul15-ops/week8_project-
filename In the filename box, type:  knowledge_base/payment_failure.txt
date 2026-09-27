@@ -1,0 +1,1 @@
+A payment may fail because of incorrect payment details, insufficient funds, an expired card, or a temporary issue with the payment provider. Customers should check their payment information and try again using an available payment method. If the problem continues, they can contact their payment provider or customer support.

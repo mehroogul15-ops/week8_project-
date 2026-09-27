@@ -1,0 +1,1 @@
+Approved refunds are processed after the returned product has been received and checked when a return inspection is required. The refund is sent through the original payment method whenever possible. The time required for the refund to appear can depend on the payment provider.

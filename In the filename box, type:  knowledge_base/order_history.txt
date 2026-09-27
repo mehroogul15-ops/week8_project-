@@ -1,0 +1,1 @@
+Customers can view their previous orders from the order history section of their account. Order history may show information such as order numbers, purchased items, order dates, payment status, and delivery status. Customers can use this information when checking past purchases or contacting support.

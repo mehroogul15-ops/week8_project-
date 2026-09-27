@@ -1,0 +1,1 @@
+Customers can find product information on the product page. Product pages may include the product name, description, price, available options, specifications, and stock status. Customers should review this information before placing an order.

@@ -1,0 +1,1 @@
+Customers can create an account by entering their name, email address, and a password on the registration page. After submitting the form, they must verify their email address using the verification link sent to their inbox. The account becomes active after email verification is completed.
